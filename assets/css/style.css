@@ -1,0 +1,58 @@
+nav img {
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+}
+nav ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+nav ul a {
+    display: inline-block;
+    text-decoration: none;
+    background: linear-gradient(#e9e3e3, #676666);
+    padding: 8px 16px;
+    margin-right: 20px;
+    color: #000;
+    border: 1px solid #aaa;;
+}
+nav ul a:hover {
+    background: linear-gradient(#676666, #e9e3e3);
+    color: #00f;
+    font-weight: bold;
+}
+nav ul a li {
+    list-style: none;
+}
+#bandeau {
+    background: rgb(161, 193, 249);
+    text-align: center;
+    padding: 10px 0;
+}
+#texte {
+    padding: 20px;
+
+}
+#ventes {
+    background: #ddd;
+
+}
+footer {
+    background: linear-gradient(#e9e3e3, #676666);
+    padding: 10px;
+}
+footer div {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+}
+#col_gauche {
+
+}
+#col_milieu {
+
+}
+#col_droite img {
+    width: 50px;
+    height: 50px;
+}
